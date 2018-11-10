@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloToast.iml" filepath="$PROJECT_DIR$/HelloToast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloConstraint.iml" filepath="$PROJECT_DIR$/HelloConstraint.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
